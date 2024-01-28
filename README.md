@@ -1,3 +1,8 @@
+## About me
+I am a software engineer specializing in machine learning and backend development, with expertise in integrating Generative AI into systems. 
+
+I am also skilled in technical writing and contribute to tech blog publications, fostering educational knowledge sharing within the tech community.
+
 ## 📫 Contact
 
 <p>
@@ -11,9 +16,6 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Blog on Medium">
   </a>
 </p>
-
-## About me
-I am a software engineer specializing in machine learning and backend development, with expertise in integrating Generative AI into systems. I am also skilled in technical writing and contribute to leading tech publications, fostering educational knowledge sharing within the tech community.
 
 ---
 
