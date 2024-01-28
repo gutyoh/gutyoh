@@ -32,7 +32,7 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### My GitHub stats
+## My GitHub stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gutyoh&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gutyoh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
