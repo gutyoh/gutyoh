@@ -14,3 +14,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          IGNORED_LANGUAGES: "Java, JSON, JavaScript, Text, Markdown, HTML"
