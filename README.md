@@ -12,8 +12,10 @@
   </a>
 </p>
 
-## About Me
-I am a software engineer specializing in machine learning and backend development, with expertise in integrating Generative AI into systems. I am also skilled in technical writing and conveying complex technical concepts, contributing to leading industry publications and fostering educational knowledge sharing within the tech community.
+## About me
+I am a software engineer specializing in machine learning and backend development, with expertise in integrating Generative AI into systems. I am also skilled in technical writing and contribute to leading tech publications, fostering educational knowledge sharing within the tech community.
+
+---
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
