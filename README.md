@@ -23,10 +23,10 @@ I am also skilled in technical writing and contribute to tech blog publications,
 <!--START_SECTION:waka-->
 
 ```txt
-Go                 59 mins         ███████████▓░░░░░░░░░░░░░   46.23 %
-Python             23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Java               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Go                 59 mins         █████████▒░░░░░░░░░░░░░░░   37.59 %
+Python             52 mins         ████████▒░░░░░░░░░░░░░░░░   33.52 %
+Java               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
