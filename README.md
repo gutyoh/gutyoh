@@ -19,18 +19,6 @@ I am also skilled in technical writing and contribute to tech blog publications,
 
 ---
 
-## 📊 Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-Go                 1 hr 14 mins    ████████▒░░░░░░░░░░░░░░░░   33.84 %
-Python             1 hr 8 mins     ███████▓░░░░░░░░░░░░░░░░░   31.09 %
-Docker             18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Java Properties    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-```
-
-<!--END_SECTION:waka-->
-
 ## My GitHub stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gutyoh&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gutyoh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
